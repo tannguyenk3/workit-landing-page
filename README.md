@@ -1,5 +1,6 @@
  README file
 ---
+![image](https://github.com/user-attachments/assets/c69e54d7-9a76-4405-8548-9bc8bd1ce527)
 
 # Workit Landing Page
 
