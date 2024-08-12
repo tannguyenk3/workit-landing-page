@@ -52,17 +52,17 @@ header .menu p:hover {
     border-bottom: 3px solid #44FFA1;
 } 
 
-.btn-learn-more {
+.btn {
     margin-top: 50px;
     cursor: pointer;
     background-color: #44FFA1;
-    border: none;
+    border: 3px solid #24053E;
     font-family: "Manrope", sans-serif;
     font-weight: 800;
     padding: 15px 25px 15px 25px;
 }
 
-.btn-learn-more:hover {
+.btn:hover {
     background-color: #24053E;
     color: white;
     border: 3px solid #44FFA1;
